@@ -1,6 +1,6 @@
 ## Matheus Latorre
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/matheus-latorre-b4340112a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/matheuslatorre)
 
 
 <p align="center">
@@ -13,7 +13,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 # Projects:
 
-## Power BI
+### Power BI
 
 
 * Financial Dashboard, Income Statements [DRE] (PT-BR): https://bit.ly/341Yfux
