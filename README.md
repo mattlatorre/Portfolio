@@ -18,6 +18,8 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 * Financial Dashboard, Income Statements [DRE] (PT-BR): https://bit.ly/341Yfux
 
+* Logistic dashboard, OTIF (PT-BR): https://bit.ly/3462k0R
+
 * NBA Regular Season 2018-19 Analysis (PT-BR):
 
 
