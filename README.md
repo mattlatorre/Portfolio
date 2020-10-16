@@ -14,7 +14,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 ## Power BI
 
 
-* Financial Dashboard, Income Statements [DRE] (PT-BR): 
+* Financial Dashboard, Income Statements [DRE] (PT-BR): https://bit.ly/341Yfux
 
 * NBA Regular Season 2018-19 Analysis (PT-BR):
 
