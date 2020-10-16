@@ -26,7 +26,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 #
 
-<img src =  "Logo 1 - Preto.png" width= 300>
+
+<img align="right" img src =  "Logo 1 - Preto.png" width= 300>
 
 
-#
