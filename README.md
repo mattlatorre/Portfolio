@@ -20,7 +20,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 * Logistic Dashboard, OTIF (PT-BR): https://bit.ly/3462k0R
 
-* Production Dashboard, OEE (PT-BR): 
+* Production Dashboard, OEE (PT-BR): https://bit.ly/3j4rAc6
 
 * NBA Regular Season 2018-19 Analysis (PT-BR):
 
