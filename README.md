@@ -11,6 +11,12 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 # Projects:
 
-* Turnover Reduction with Machine Learning - Python, Colab (PT-BR):
+## Power BI
 
-* NBA Regular Season 2018-19 Analysis - Power BI (PT-BR):
+
+* Financial Dashboard, Income Statements [DRE] (PT-BR): 
+
+* NBA Regular Season 2018-19 Analysis (PT-BR):
+
+
+
