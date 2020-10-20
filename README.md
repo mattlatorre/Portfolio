@@ -13,9 +13,9 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 # Projects:
 
-
-<img align="left" src="Power BI - Logo.png" width=4%> 
-
+<p align="left">
+  <src="Power BI - Logo.png" width=4%> 
+</p>
 
 ### Power BI
 
