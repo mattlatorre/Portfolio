@@ -13,6 +13,10 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 # Projects:
 
+
+<img align="left" src="Power BI - Logo.png" width=4%> 
+
+
 ### Power BI
 
 
@@ -24,6 +28,10 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 * NBA Regular Season 2018-19 Analysis (PT-BR):
 
+
+
+#
+<img align="left" src="Python - Logo.jpg" width=4%> 
 
 ### Python
 
