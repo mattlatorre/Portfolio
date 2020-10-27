@@ -8,7 +8,7 @@
 </p>
 
 
-Production Engineer working in the food and beverage industry, looking for the best tools to make the best decisions based on data. The purpose of this directory is to share the projects that I have been developing during my Data Science journey
+Production Engineer working in the food and beverage industry, looking for the best tools to make the best decisions based on data. The purpose of this directory is to share the projects that I have been developing during my Business Intelligence and Data Science journey
 
 
 
