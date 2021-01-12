@@ -25,7 +25,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 * Production Dashboard, OEE (PT-BR): https://bit.ly/3j4rAc6
 
-* NBA Regular Season 2018-19 Analysis (PT-BR):
+* NBA Regular Season 2018-19 Analysis (PT-BR): https://bit.ly/35q64uz
 
 
 
