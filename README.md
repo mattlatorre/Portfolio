@@ -18,6 +18,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 ### Power BI
 
+* Sales Dashboard, Financial Simulator (PT-BR): https://bit.ly/2MKelDj
 
 * Financial Dashboard, Income Statements [DRE] (PT-BR): https://bit.ly/341Yfux
 
