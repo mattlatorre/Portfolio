@@ -35,6 +35,7 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 ### Python
 
+* Analyzing Airbnb Data (Rio de Janeiro) (PT-BR): https://bit.ly/3dy5L5x
 
 #
 
