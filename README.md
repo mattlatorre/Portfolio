@@ -37,6 +37,8 @@ Production Engineer working in the food and beverage industry, looking for the b
 
 * Analyzing Airbnb Data (Rio de Janeiro) (PT-BR): https://bit.ly/3dy5L5x
 
+* Analyzing Violence in Rio de Janeiro (PT-BR): https://bit.ly/3bPzt4D
+
 #
 
 
